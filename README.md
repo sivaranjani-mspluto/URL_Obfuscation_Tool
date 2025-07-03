@@ -27,8 +27,8 @@ A simple Python-based tool to encode and decode URLs using **URL encoding** and 
 ```bash
 python url_obfuscation_tool.py
 ```
-## Sample Ouput
-- Obfuscate a URL
-  ![image alt]()
-- Deobfuscate a URL
-  ![image alt]()
+## SAMPLE OUTPUT
+## Obfuscate a URL
+  ![image alt](https://github.com/sivaranjani-mspluto/URL_Obfuscation_Tool/blob/main/OUTPUTScreenshot%202025-07-03%20083205.jpg)
+## Deobfuscate a URL
+  ![image alt](https://github.com/sivaranjani-mspluto/URL_Obfuscation_Tool/blob/main/OUTPUT2Screenshot%202025-07-03%20083416.jpg)
